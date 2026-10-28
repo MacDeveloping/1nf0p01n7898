@@ -1,0 +1,318 @@
+{
+  "days": [
+    {
+      "date": "25.10.2026",
+      "times": [
+        {
+          "time": "10:00",
+          "events": [
+            {
+              "title": "Gottesdienst",
+              "notes": "Schloss Holte & Stukenbrock"
+            }
+          ]
+        },
+        {
+          "time": "16:00",
+          "events": [
+            {
+              "title": "Gottesdienst",
+              "notes": "Schloss Holte"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "26.10.2026",
+      "times": [
+        {
+          "time": "10:00",
+          "events": [
+            {
+              "title": "Gebetskreis",
+              "notes": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "28.10.2026",
+      "times": [
+        {
+          "time": "19:00",
+          "events": [
+            {
+              "title": "Gemeindestunde",
+              "notes": "Schloss Holte"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "29.10.2026",
+      "times": [
+        {
+          "time": "11:00",
+          "events": [
+            {
+              "title": "Beerdigung Helene Wiens",
+              "notes": "Schloss Holte"
+            }
+          ]
+        },
+        {
+          "time": "19:00",
+          "events": [
+            {
+              "title": "Schwesterngebetskreis",
+              "notes": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "30.10.2026",
+      "times": [
+        {
+          "time": "",
+          "events": [
+            {
+              "title": "Fasttag",
+              "notes": ""
+            }
+          ]
+        },
+        {
+          "time": "18:00",
+          "events": [
+            {
+              "title": "Brüderwochenende",
+              "notes": "(Abfahrt 15:30 ST)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "31.10.2026",
+      "times": [
+        {
+          "time": "",
+          "events": [
+            {
+              "title": "Brüderwochenende",
+              "notes": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "01.11.2026",
+      "times": [
+        {
+          "time": "10:00",
+          "events": [
+            {
+              "title": "Gottesdienst",
+              "notes": "Schloss Holte - Bericht Brüder WE"
+            }
+          ]
+        },
+        {
+          "time": "16:00",
+          "events": [
+            {
+              "title": "Abendmahl",
+              "notes": "Schloss Holte"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "02.11.2026",
+      "times": [
+        {
+          "time": "10:00",
+          "events": [
+            {
+              "title": "Gebetskreis",
+              "notes": ""
+            }
+          ]
+        },
+        {
+          "time": "17:45",
+          "events": [
+            {
+              "title": "Elterngebetskreis",
+              "notes": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "04.11.2026",
+      "times": [
+        {
+          "time": "19:00",
+          "events": [
+            {
+              "title": "Bibelstunde",
+              "notes": "Stukenbrock"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "06.11.2026",
+      "times": [
+        {
+          "time": "18:00",
+          "events": [
+            {
+              "title": "Gebetsstunde, Kinderstunden, Jungscharstunde",
+              "notes": ""
+            }
+          ]
+        },
+        {
+          "time": "19:45",
+          "events": [
+            {
+              "title": "Jugendstunde",
+              "notes": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "08.11.2026",
+      "times": [
+        {
+          "time": "10:00",
+          "events": [
+            {
+              "title": "Gottesdienst",
+              "notes": "Schloss Holte & Stukenbrock"
+            }
+          ]
+        },
+        {
+          "time": "16:00",
+          "events": [
+            {
+              "title": "Gottesdienst",
+              "notes": "Schloss Holte"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "09.11.2026",
+      "times": [
+        {
+          "time": "10:00",
+          "events": [
+            {
+              "title": "Gebetskreis",
+              "notes": ""
+            }
+          ]
+        },
+        {
+          "time": "17:45",
+          "events": [
+            {
+              "title": "Elterngebetskreis",
+              "notes": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "11.11.2026",
+      "times": [
+        {
+          "time": "19:00",
+          "events": [
+            {
+              "title": "Bibelstunde",
+              "notes": "Stukenbrock"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "12.11.2026",
+      "times": [
+        {
+          "time": "19:00",
+          "events": [
+            {
+              "title": "Schwesterngebetskreis",
+              "notes": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "13.11.2026",
+      "times": [
+        {
+          "time": "18:00",
+          "events": [
+            {
+              "title": "Gebetsstunde, Kinderstunden, Jungscharstunde",
+              "notes": ""
+            }
+          ]
+        },
+        {
+          "time": "19:45",
+          "events": [
+            {
+              "title": "Jugendstunde",
+              "notes": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "15.11.2026",
+      "times": [
+        {
+          "time": "10:00",
+          "events": [
+            {
+              "title": "Gottesdienst",
+              "notes": "Schloss Holte & Stukenbrock"
+            }
+          ]
+        },
+        {
+          "time": "16:00",
+          "events": [
+            {
+              "title": "Gottesdienst",
+              "notes": "Schloss Holte"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
