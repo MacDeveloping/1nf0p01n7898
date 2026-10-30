@@ -1,0 +1,59 @@
+{
+  "cluster_mode": "year",
+  "events": [
+    {
+      "date_start": "30.10.2026",
+      "date_end": "31.10.2026",
+      "title": "Brüderwochenende",
+      "notes": ""
+    },
+    {
+      "date_start": "18.11.2026",
+      "date_end": "22.11.2026",
+      "title": "Themenabende",
+      "notes": ""
+    },
+    {
+      "date_start": "27.11.2026",
+      "date_end": "28.11.2026",
+      "title": "Schwestern WE",
+      "notes": ""
+    },
+    {
+      "date_start": "29.11.2026",
+      "date_end": "29.11.2026",
+      "title": "Evangelistische GoDi",
+      "notes": ""
+    },
+    {
+      "date_start": "06.12.2026",
+      "date_end": "06.12.2026",
+      "title": "Adventssingen SH",
+      "notes": ""
+    },
+    {
+      "date_start": "13.12.2026",
+      "date_end": "13.12.2026",
+      "title": "Adventssingen ST",
+      "notes": ""
+    },
+    {
+      "date_start": "09.07.2027",
+      "date_end": "11.07.2027",
+      "title": "50 Jahre Jubiläum",
+      "notes": ""
+    },
+    {
+      "date_start": "17.07.2027",
+      "date_end": "24.07.2027",
+      "title": "Kinderfreizeit",
+      "notes": ""
+    },
+    {
+      "date_start": "24.07.2027",
+      "date_end": "31.07.2027",
+      "title": "Jugendfreizeit",
+      "notes": ""
+    }
+  ]
+}
